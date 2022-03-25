@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Dell Inspiron 15",
+        "price": 494,
+        "picture": "../src/Images/dell-inspiron-15.jpeg"
+    },
+    {
+        "id": 2,
+        "name": "Dell Vestro 14",
+        "price": 532,
+        "picture": "../src/Images/dell-vestro-14.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Lenovo IdeaPad 3",
+        "price": 623,
+        "picture": "../src/Images/lenovo-ideapad-3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Acer Extensa Ex215-52",
+        "price": 435,
+        "picture": "../src/Images/acer-extensa-ex215-52.jpg"
+    },
+    {
+        "id": 5,
+        "name": "HP 15s-du3024TU",
+        "price": 717,
+        "picture": "../src/Images/hp-15s-du3024tu.jpg"
+    },
+    {
+        "id": 6,
+        "name": "HP 250 G8",
+        "price": 450,
+        "picture": "../src/Images/hp-250-g8.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Dell Inspiron 13",
+        "price": 599,
+        "picture": "../src/Images/dell-inspiron-13.jpg"
+    },
+    {
+        "id": 8,
+        "name": "HP 14s-dq2888TU",
+        "price": 688,
+        "picture": "../src/Images/hp-14s-dq2888tu.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Acer Aspire 5 A515-56-54TN",
+        "price": 502,
+        "picture": "../src/Images/acer-aspire-5-a515-56-54tn.jpg"
+    }
+]
