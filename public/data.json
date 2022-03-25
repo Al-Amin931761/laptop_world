@@ -1,56 +1,56 @@
 [
     {
         "id": 1,
-        "name": "Dell Inspiron 15",
-        "price": 494,
-        "picture": "../src/Images/dell-inspiron-15.jpeg"
+        "name": "Inspiron 15 3000",
+        "price": 249,
+        "picture": "https://i.dell.com/is/image/DellContent//content/dam/ss2/product-images/dell-client-products/notebooks/inspiron-notebooks/inspiron-15-3510/media-gallery/in3510nt_cnb_00055lf110_bk.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=402&qlt=100,0&resMode=sharp2&size=402,402"
     },
     {
         "id": 2,
-        "name": "Dell Vestro 14",
-        "price": 532,
-        "picture": "../src/Images/dell-vestro-14.jpg"
+        "name": "Dell Alienware x15",
+        "price": 1650,
+        "picture": "https://i.dell.com/is/image/DellContent//content/dam/ss2/product-images/dell-client-products/notebooks/alienware-notebooks/x15-non-touch-non-tobii/media-gallery/laptop-alienware-x15-cnb-00000ff090-gy-ntp_9.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=402&qlt=100,0&resMode=sharp2&size=402,402"
     },
     {
         "id": 3,
         "name": "Lenovo IdeaPad 3",
         "price": 623,
-        "picture": "../src/Images/lenovo-ideapad-3.jpg"
+        "picture": "https://www.lenovo.com/medias/lenovo-laptop-ideapad-3-15-amd-subseries-gallery-2.jpg?context=bWFzdGVyfHJvb3R8MzAyODB8aW1hZ2UvanBnfGhjOC9oOTAvMTA3NDQ5NjI5NDA5NTguanBnfDdiYzRjYTA5NTY4MGU3MjBlNjMwYWVhYjhmZDg3NGQyZWRhODBlMWJiMzBhZWExNWQ0OTE4MTEwYzFlM2ZhYjU"
     },
     {
         "id": 4,
         "name": "Acer Extensa Ex215-52",
         "price": 435,
-        "picture": "../src/Images/acer-extensa-ex215-52.jpg"
+        "picture": "https://static.acer.com/up/Resource/Acer/Laptops/Nitro_5_Spin/Gallery/20170823/Nitro_5_Spin_gallery_01.png"
     },
     {
         "id": 5,
-        "name": "HP 15s-du3024TU",
-        "price": 717,
-        "picture": "../src/Images/hp-15s-du3024tu.jpg"
+        "name": "HP Laptop - 15t-dy200 touch optional",
+        "price": 599,
+        "picture": "https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c07951388.png?imwidth=430&imdensity=1"
     },
     {
         "id": 6,
-        "name": "HP 250 G8",
-        "price": 450,
-        "picture": "../src/Images/hp-250-g8.jpg"
+        "name": "HP ENVY Laptop 14-eb1035nr",
+        "price": 1149,
+        "picture": "https://www.hp.com/us-en/shop/app/assets/images/product/5C4C8UA%23ABA/center_facing.png?_=1637576273625&imwidth=75&imdensity=1"
     },
     {
         "id": 7,
-        "name": "Dell Inspiron 13",
-        "price": 599,
-        "picture": "../src/Images/dell-inspiron-13.jpg"
+        "name": "Dell XPS 13",
+        "price": 1319,
+        "picture": "https://i.dell.com/is/image/DellContent//content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/xps-13-9310/general/xps-13_black_open-up-left-v2.jpg?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=664&qlt=100,0&resMode=sharp2&size=664,402"
     },
     {
         "id": 8,
-        "name": "HP 14s-dq2888TU",
-        "price": 688,
-        "picture": "../src/Images/hp-14s-dq2888tu.jpg"
+        "name": "HP SPECTRE X360 16",
+        "price": 1639,
+        "picture": "https://www.hp.com/wcsstore/hpusstore/Treatment/mdps/Q1FY22_Spectre_Frozone/frozone_ksp4_img1.png"
     },
     {
         "id": 9,
-        "name": "Acer Aspire 5 A515-56-54TN",
-        "price": 502,
-        "picture": "../src/Images/acer-aspire-5-a515-56-54tn.jpg"
+        "name": "Legion Y540 (15)",
+        "price": 1199,
+        "picture": "https://www.lenovo.com/medias/lenovo-legion-y540-15-3.png?context=bWFzdGVyfHJvb3R8MTI1NjA1fGltYWdlL3BuZ3xoYmMvaDY4LzEwMDkyNjE0MjU0NjIyLnBuZ3w5YzU2YTdkYjU3M2UxZjY1NGMyMzlhNDc2ZDAyZjZhNTVhYmFiMTc5NTc1YzZhY2U2N2JlZjU5NzM5OWM2M2Yy"
     }
 ]

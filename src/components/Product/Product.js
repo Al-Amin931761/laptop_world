@@ -5,7 +5,7 @@ const Product = (props) => {
     const { name, price, picture } = props.product;
     // console.log(props.product.id)
     return (
-        <div>
+        <div className='product-container'>
             <img src={picture} alt="" />
             <h3>Name: {name}</h3>
             <h4>Price: {price}</h4>
