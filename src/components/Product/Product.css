@@ -1,0 +1,24 @@
+.product-container{
+    background-color: #EEEEEE;
+    padding: 20px;
+    border: 2px solid lightblue;
+    margin: 20px;
+}
+.product-container img{
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+}
+.add-to-cart-button{
+    background-color:seagreen;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: large;
+    font-weight:600;
+    margin: 5px;
+}
+.add-to-cart-button:hover{
+    background-color: tomato;
+}
