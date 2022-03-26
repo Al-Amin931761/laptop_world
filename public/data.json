@@ -15,7 +15,7 @@
         "id": 3,
         "name": "Lenovo IdeaPad 3",
         "price": 623,
-        "picture": "https://www.lenovo.com/medias/lenovo-laptop-ideapad-3-15-amd-subseries-gallery-2.jpg?context=bWFzdGVyfHJvb3R8MzAyODB8aW1hZ2UvanBnfGhjOC9oOTAvMTA3NDQ5NjI5NDA5NTguanBnfDdiYzRjYTA5NTY4MGU3MjBlNjMwYWVhYjhmZDg3NGQyZWRhODBlMWJiMzBhZWExNWQ0OTE4MTEwYzFlM2ZhYjU"
+        "picture": "https://www.lenovo.com/medias/lenovo-laptops-ideapad-flex-5i-14-series-front-thumbnail.png?context=bWFzdGVyfHJvb3R8NTU5OTh8aW1hZ2UvcG5nfGg1Mi9oYjQvMTEwOTQ5MDQ0MDYwNDYucG5nfGU3ZDQ0N2Y3MGYxMTI3MzE0YzFmOTIzMGUwNjY3N2E1Zjg5ZmU4NmUwZjE0NDBlM2E4OGQ3YTQ5NWMyNjExNTc&w=1920"
     },
     {
         "id": 4,
@@ -37,9 +37,9 @@
     },
     {
         "id": 7,
-        "name": "Dell XPS 13",
+        "name": "IdeaPad Gaming 3i",
         "price": 1319,
-        "picture": "https://i.dell.com/is/image/DellContent//content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/xps-13-9310/general/xps-13_black_open-up-left-v2.jpg?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=664&qlt=100,0&resMode=sharp2&size=664,402"
+        "picture": "https://www.lenovo.com/medias/lenovo-laptop-legion-ideapad-3-gaming-front.png?context=bWFzdGVyfHJvb3R8Nzk4MzF8aW1hZ2UvcG5nfGhlMi9oYjgvMTA4NTgzMzkwNzQwNzgucG5nfDdmMDVjYjdkNTIwOWQ0ZmFlYmM1NGRjOTRiM2E4NzU1ZjIxYzA3NmExMTRhOTk4Zjk5NTMzMmQ5ODVhNGE1NDA&w=1920"
     },
     {
         "id": 8,
