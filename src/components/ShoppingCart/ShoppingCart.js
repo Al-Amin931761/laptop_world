@@ -1,18 +1,23 @@
-import React from 'react';
+import React, { useState } from 'react';
 import './ShoppingCart.css';
 import { MdOutlineAddShoppingCart } from "react-icons/md";
 
 const ShoppingCart = ({ cart }) => {
-
+    const [random, setRandom] = useState([]);
+    const getRandItem = () => {
+        const randomItem = cart[Math.floor(Math.random() * cart.length)]
+        setRandom(randomItem);
+    }
     return (
         <div>
             <h1>second part</h1>
-            <p>Selected: {cart.length}</p>
+            <h4>Selected: {cart.length}</h4>
             {
-                cart.map((item) => <h3 key={item.id}>{item.name}</h3>)
+                cart.map((item) => <h5 key={item.id}><li>{item.name}</li></h5>)
             }
-            <button className='btn btn-success m-3 p-2 fw-bold border-0'>CHOOSE 1 FOR ME <MdOutlineAddShoppingCart /></button>
-            <button className='btn btn-info m-3 p-2 fw-bold border-0 text-white'>CHOOSE AGAIN <MdOutlineAddShoppingCart /></button>
+            <button onClick={getRandItem} className='btn btn-success m-3 p-2 fw-bold border-0'>CHOOSE 1 FOR ME <MdOutlineAddShoppingCart /></button>
+            <h3>Lucky Product: {random.name}</h3>
+            {/* <button className='btn btn-info m-3 p-2 fw-bold border-0 text-white'>CHOOSE AGAIN <MdOutlineAddShoppingCart /></button> */}
         </div>
     );
 };
