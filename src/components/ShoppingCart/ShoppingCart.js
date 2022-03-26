@@ -13,8 +13,8 @@ const ShoppingCart = ({ cart }) => {
 
     return (
         <div>
-            <h1>second part</h1>
-            <h4>Selected: {cart.length}</h4>
+            <h1>Order Summary</h1>
+            <h4>Selected Items: {cart.length}</h4>
             {
                 cart.map((item) => <h5 key={item.id}><li>{item.name}</li></h5>)
             }
